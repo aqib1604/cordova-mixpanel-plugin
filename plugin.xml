@@ -37,8 +37,8 @@
         -->
         <preference name="PLAY_SERVICES_VERSION" default="+" />
 
-        <framework src="com.google.android.gms:play-services-base:$PLAY_SERVICES_VERSION"/>
-        <framework src="com.google.android.gms:play-services-gcm:$PLAY_SERVICES_VERSION"/>
+        <framework src="com.google.android.gms:play-services-base:11.8.0"/>
+        <framework src="com.google.android.gms:play-services-gcm:11.8.0"/>
 
         <!-- AndroidManifest.xml -->
         <!-- see https://github.com/mixpanel/mixpanel-android/blob/master/src/main/AndroidManifest.xml -->
